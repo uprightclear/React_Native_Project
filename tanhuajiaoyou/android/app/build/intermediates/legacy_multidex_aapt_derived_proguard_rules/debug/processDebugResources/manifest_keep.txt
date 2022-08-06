@@ -1,0 +1,4 @@
+# Referenced at C:\Users\uksir\Desktop\tanhuajiaoyou\android\app\build\intermediates\merged_manifests\debug\AndroidManifest.xml:47
+-keep class androidx.core.app.CoreComponentFactory { <init>(); }
+# Referenced at C:\Users\uksir\Desktop\tanhuajiaoyou\android\app\build\intermediates\merged_manifests\debug\AndroidManifest.xml:47
+-keep class com.tanhuajiaoyou.MainApplication { <init>(); }
